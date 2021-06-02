@@ -9,9 +9,10 @@ Welcome to  the __HellShell__. This tool is like the bash shell. It has many hac
 
 ![Screenshot2](Screenshots/ss2.png)
 
-![Screenshot3](Screenshots/ss3.png)
+___
 
----
+
+
 
 ###  Requiremnts:
 
