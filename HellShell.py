@@ -66,6 +66,7 @@ def main():
 				pass
 			except EOFError:
 				pass
+		'''
 		elif cmnd == "3" or cmnd == "phish":
 			try:
 				subprocess.call("bash Scripts/SocialPhish/socialphish.sh", shell=True)
@@ -73,6 +74,7 @@ def main():
 				pass
 			except EOFError:
 				pass
+		'''
 		elif cmnd == "4" or cmnd == "brutemail":
 			try:
  				subprocess.call("python3 Scripts/mail.py", shell=True)
