@@ -29,7 +29,7 @@ menu = """
 
 \033[36m [1 ]Automate Android Hacking{droid}           	[7 ]
  [2 ]MAC address spoofer{mac}		        [8 ]
- [3 ]Phish Social Media{phish}                  [9 ]
+ [3 ]Phish Social Media{not working}            [9 ]
  [4 ]Bruteforce e-mail accounts{brutemail}      [10]
  [5 ]Bruteforce protected .zip files{brutezip}  [11]
  [6 ]                                           [12]
